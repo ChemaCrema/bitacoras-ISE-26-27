@@ -11,7 +11,7 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 ### 1. Crea tu repositorio privado en GitHub
 1. Inicia sesión en tu cuenta de GitHub y crea un repositorio (_**privado**_) llamado **`practicas-ISE`**.
 2. Dentro de tu repositorio, crea inicialmente un archivo **`README.md`** donde llevarás un registro de tu progreso en las prácticas de la asignatura. Puedes servirte inicialmente de la plantilla que ha creado el profesor en `https://github.com/juanluck/practicas-ISE/`
-3. Invita al profesor como colaborador a tu repositorio privado para que pueda revisarlo. El usuario del profesor en GitHub es: `juanluck`.
+3. Invita al profesor como colaborador a tu repositorio privado para que pueda revisarlo. El usuario del profesor en GitHub es: `fergunet`.
 
 ### 2. Haz un **Fork** del repositorio del profesor
 1. Ve a la página del repositorio del profesor: `https://github.com/fergunet/bitacoras-ISE-26-27`.
