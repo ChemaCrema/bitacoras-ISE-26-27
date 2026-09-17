@@ -1,1 +1,0 @@
-- [fergunet](https://github.com/fergunet/bitacoras-ISE-2526)

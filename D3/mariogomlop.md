@@ -1,1 +1,0 @@
-- [mariogomlop](https://github.com/mariogomlop/practicas-ISE)
